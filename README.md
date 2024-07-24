@@ -1,4 +1,5 @@
 # TFS frontend
+![Screenshot 2024-07-24 120705](https://github.com/user-attachments/assets/16cc341f-6361-4564-bd17-93289d57d917)
 
 This is the front end of TFS, a project inspired by [BookMyShow](https://in.bookmyshow.com/). This project aims to aid a cinema theatre where visitors can view upcoming films and purchase tickets.
 
